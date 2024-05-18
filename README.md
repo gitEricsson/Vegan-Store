@@ -5,6 +5,8 @@
 - [Overview](#overview)
   - [About](#about)
   - [The Challenge](#the-challenge)
+  - [Features](#features)
+  - [Updates](#updates)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -21,6 +23,16 @@ Responsive Food website using HTML/HTML5 and CSS/CSS3
 ### The Challenge
 
 My goal was to recreate EdYoda's Vegan Store Website Template
+
+### Features
+
+- Video Integration
+- Responsive Icons
+- Responsive Tabs
+
+### Updates
+
+- Responsive Web Design across all Devices
 
 ### Screenshot
 
