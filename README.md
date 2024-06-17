@@ -1,4 +1,4 @@
-# EdYoda - Vegan Store
+# Vegan Store
 
 ## Table of contents
 
