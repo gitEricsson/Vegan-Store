@@ -36,7 +36,7 @@ My goal was to recreate EdYoda's Vegan Store Website Template
 
 ### Screenshot
 
-![screenshot1](https://user-images.githubusercontent.com/40789486/63003180-49daee80-be95-11e9-8baf-1d0d0732fc4c.png)
+![screenshot1](./screenshots/Screenshot1.jpeg)
 
 ### Links
 
